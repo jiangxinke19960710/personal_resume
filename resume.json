@@ -4,7 +4,7 @@
     "tel": "18537642521",
     "email": "m17538238049@163.com",
     "blog": "",
-    "avatar": "image/avatar.jpg",
+    "avatar": "./image/avatar.jpg",
     "pages": [],
     "summaries": [
         "熟练掌握Python编程语言，熟悉python标准库和流行的第三方库",

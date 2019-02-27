@@ -1,4 +1,4 @@
-# EasyResume
+# Resume
 
 EasyResume简单的使用一个json文件，配置属于你的简历的内容，只需要快捷的几步，便能生成一个样式美观整齐的在线简历。（支持移动端显示）
 
@@ -7,7 +7,7 @@ EasyResume简单的使用一个json文件，配置属于你的简历的内容，
 ------------
 ## Demo
 
-[查看demo](https://jaskey.github.io/easyresume "例子")
+[查看demo](https://jiangxinke19960710.github.io/personal_resume "例子")
 
 ## 在线编辑器
 
